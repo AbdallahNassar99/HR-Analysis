@@ -1,6 +1,6 @@
 # HR Attrition Analysis
 
-  This project aims to analyze employee attrition within three core departments Sales, Human Resources, and Research & Development
+  This project analysis employee attrition within three core departments Sales, Human Resources, and Research & Development
 
 ## Features
  - Department-wise Analysis: Separate analysis for Sales, HR, and R&D departments to understand specific attrition trends in each.
