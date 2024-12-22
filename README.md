@@ -17,4 +17,7 @@
 ## Technologies Used
   Power BI, Excel
 
+## Dashboard View
+![Hr Analysis](https://github.com/user-attachments/assets/0318d478-3313-4a7a-bfe6-72e48d483778)
+
   
