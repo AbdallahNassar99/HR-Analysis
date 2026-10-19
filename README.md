@@ -18,6 +18,6 @@
   Power BI, Excel
 
 ## Dashboard View
-![Hr Analysis](https://github.com/user-attachments/assets/0318d478-3313-4a7a-bfe6-72e48d483778)
+![Hr Analysis](https://github.com/AbdallahNassar99/HR-Analysis/blob/master/hr.PNG?raw=true)
 
   
